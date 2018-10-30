@@ -288,3 +288,4 @@
 10-24 18:05:19.506 29451-29451/com.ebc.epay.gomepay I/tongbao: [1: MethodUtils.java: myLog:293][2018-10-24 18:05:19]  - --onPageFinished--
 10-24 18:05:19.518 29451-29451/com.ebc.epay.gomepay I/tongbao: [1: MethodUtils.java: myLog:293][2018-10-24 18:05:19]  - fail_title:10.153.29.39/app/creditBankPage.html--title--信用卡申请
 10-24 18:05:19.527 29451-29451/com.ebc.epay.gomepay I/tongbao: [1: MethodUtils.java: myLog:293][2018-10-24 18:05:19]  - --onPageFinished--super
+sddsddsdsadasdaadsdasdsaadasdasadsg
